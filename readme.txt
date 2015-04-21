@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Free Feedburner Alternative and RSS Redirect plugin from S-Feeds.com. 
 
 == Description ==
-This plugin is your "one click"-solution to switch from Feedburner to the FREE Feedburner alternative S-Feeds.com. Don't wait for the Feedburner shutdown, switch today, S-Feeds.com is the better feedburner alternative. 
+This plugin allows you to easily switch from Feedburner to the FREE (and better) Feedburner alternative S-Feeds.com.  
 
 Read all about the service on http://www.s-feeds.com/rss.
 
@@ -18,6 +18,7 @@ The plugin is very easy to use:
 
 - Step 1: Download, install & activate it
 - Step 2: Click on "Apply redirect" for all feeds you want to redirect (most likely your main feed, as well as some comments & author feeds you may have)
+- Step 3: Connect it to a s-feeds.com account to get access to your subscribers, see statistics etc. (see screenshots) 
 
 Once the redirect is active, your RSS-url will redirect to your new feed page where users can subscribe to your feed. 
 
@@ -30,15 +31,21 @@ Then go to plugin settings page and click on "Apply redirect" for all feeds you 
 
 == Screenshots ==
 
-1. After installing the plugin, you'll see this screen. Click on "Apply redirect" for all feeds you want to redirect 
+1. After installing the plugin, you'll see this button (on the plugin's settings screen) - click on it to apply the redirect 
 
 2. Your new feed page where users can subscribe
 
-3. Subscribers & Views statistics you'll see after you connected your feed to an account on s-feeds.com
+3. Your subscribers have plenty of options how they want to subscribe. For example, they can filter your feed to only get stories with certain tags, keywords, or authors (screenshot shows the tag-filter). 
 
-4. Message statistics
+4. Subscribers can also select if they prefer to receive only headlines, or the entire content (provided you selected your RSS feed contains this information, otherwise it's just snippets). 
 
-5. User demographics statistics
+5. Subscribers can also choose via which channels messages should be delivered to them 
+
+6. Statitics about your subscribers 
+
+7. Statistics showing how many messages have been sent via "Newspapers" or "Single emails"
+
+8. User demographics statistics about your subscribers
 
 
 == Changelog ==
