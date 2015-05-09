@@ -12,7 +12,7 @@ Free Feedburner Alternative and RSS Redirect plugin from S-Feeds.com.
 == Description ==
 This plugin allows you to easily switch from Feedburner to the FREE (and better) Feedburner alternative S-Feeds.com.  
 
-Read all about the service on http://www.s-feeds.com/rss.
+Why you should switch today? Read here: http://www.s-feeds.com/feedburner-alternative.
 
 The plugin is very easy to use: 
 
