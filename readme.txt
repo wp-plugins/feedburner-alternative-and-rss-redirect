@@ -1,4 +1,4 @@
-=== Feedburner Alternative and RSS Redirect Plugin ===
+=== Feedburner Alternative ===
 Contributors: s-feeds
 Tags: Feed, Feeds, s-feeds, RSS, Feedburner, Feedburner alternative, RSS feeds, newsletter, subscription, newsletters, email newsletter, email newsletters 
 Requires at least: 3.0
